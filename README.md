@@ -5,11 +5,11 @@ I'm based in **Mumbai**. I've worked on a few projects like Indexa & Dufus. I LO
 
 ## Featured Projects
 
-### [Indexa](https://github.com/Team-Indexa/indexa)
-Modern search engine focused on fast, structured, and AI-powered knowledge discovery.
+> ### [Indexa](https://github.com/Team-Indexa/indexa)
+> Modern search engine focused on fast, structured, and AI-powered knowledge discovery.
 
-### [Dufus](https://github.com/Team-Dufus/dufus)
-AI language system for understanding queries, summarizing info, and giving clear answers.
+> ### [Dufus](https://github.com/Team-Dufus/dufus)
+> AI language system for understanding queries, summarizing info, and giving clear answers.
 
 ## Organizations
 
