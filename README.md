@@ -1,6 +1,5 @@
 # Je m'appelle Yohaan D'souza
 
-About Me
 I'm based in **Mumbai**. I've worked on a few projects like Indexa & Dufus. I LOVE football (Not the american one), F1 (cuz vroom vroom) & Tennis. 
 
 ## Featured Projects
